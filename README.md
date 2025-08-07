@@ -19,7 +19,6 @@
 ┣ 📄 WelcomeFrame.java
 ┣ 📄 Main.java
 ┗ 📄 Forms.rml 
-
 ---
 
 ## 🚀 How to Run
@@ -29,7 +28,6 @@
 3. Interact with the GUI and enjoy!
 
 ---
-
 ## 💬 Author
 
 *Kosar Mahboob*  
